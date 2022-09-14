@@ -7,11 +7,11 @@
 
 int main(void)
 {
-	char num = "_putvhar"
+	char num = "_putchar";
 	while (num)
 	{
 	_putchar(num);
-	num ++
+	num ++;
 	}
 
 return 0;
