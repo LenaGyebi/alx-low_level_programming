@@ -7,7 +7,8 @@
  * 
  * Description: prints a string
  * On success: returns no error
- */
+ *
+ **/
 
 void _puts(char *str)
 {
