@@ -2,10 +2,11 @@
 #include "main.h"
 
 /**
- * rev_string - reversing a string
- * @s - string to be reversed
- * return 0
- */
+ * rev_string - Reverses a string
+ * @s: string to be reversed
+ * Return: nothing
+ **/
+
 
 void rev_string(char *s)
 {
@@ -22,7 +23,7 @@ void rev_string(char *s)
 }
 
 /**
- * strlen - returns the string length
+ * _strlen - returns the string length
  * @s: string 
  * return - length of the string
  */
